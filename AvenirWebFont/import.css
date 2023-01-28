@@ -1,1 +1,17 @@
-ph
+@font-face {
+    font-family: 'Avenir Next Reg';
+    src: url('./Reg.woff2') format('woff2'),
+        url('./Reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next Demi';
+    src: url('./Demi.woff2') format('woff2'),
+        url('./Demi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
