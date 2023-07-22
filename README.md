@@ -9,6 +9,7 @@ This repository is a collection of resources that I currently use
 - **Avenir:** `@import url("https://itsfoxdev.github.io/resources/fonts/avenir/import.css");`
 - **Minecraft:** `@import url("https://itsfoxdev.github.io/resources/fonts/minecraft/import.css");`
 - **Gilroy:** `@import url("https://itsfoxdev.github.io/resources/fonts/gilroy/import.css");`
+- **Product sans:** `@import url("https://itsfoxdev.github.io/resources/fonts/productsans/import.css");`
 
 ## 🗺️ Roadmap
 *Nothing here yet...*
