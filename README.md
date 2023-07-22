@@ -5,8 +5,10 @@
 This repository is a collection of resources that I currently use
 
 ## ✅ Usage
-
-**Avenir web font:** `@import url("https://cdn.jsdelivr.net/gh/ItsFoxDev/API/AvenirWebFont/import.css");`
+### 🏷️ Fonts
+**Avenir:** `@import url("https://itsfoxdev.github.io/resources/fonts/avenir/import.css");`
+**Minecraft:** `@import url("https://itsfoxdev.github.io/resources/fonts/minecraft/import.css");`
+**Gilroy:** `@import url("https://itsfoxdev.github.io/resources/fonts/gilroy/import.css");`
 
 ## 🗺️ Roadmap
 *Nothing here yet...*
