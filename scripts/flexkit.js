@@ -28,4 +28,4 @@ function addCSS(c){
 
 /* ===[ 📥 IMPORTS ]==================== */
 addCSS('https://cdn.jsdelivr.net/gh/ItsFoxDev/fa-turbo/css/all.min.css');
-addCSS('scripts/flexkit.css');
+addCSS('https://itsfoxdev.github.io/resources/scripts/flexkit.css');
