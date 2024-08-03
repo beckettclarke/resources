@@ -10,6 +10,7 @@ This repository is a collection of resources that I currently use
 - **Minecraft:** `@import url("https://itsfoxdev.github.io/resources/fonts/minecraft/import.css");`
 - **Gilroy:** `@import url("https://itsfoxdev.github.io/resources/fonts/gilroy/import.css");`
 - **Product sans:** `@import url("https://itsfoxdev.github.io/resources/fonts/productsans/import.css");`
+- **Satoshi** `@import url("https://itsfoxdev.github.io/resources/fonts/satoshi/import.css");`
 
 ## 🗺️ Roadmap
 *Nothing here yet...*
